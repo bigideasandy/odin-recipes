@@ -46,3 +46,17 @@ h4 {
     background-color:#b3b3e6;
     color: red;
 }
+
+.recipe-list {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.go-home {
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
